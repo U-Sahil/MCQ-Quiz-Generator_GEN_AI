@@ -171,17 +171,3 @@ No API key or internet is needed; the Gemini service is replaced by a fake.
 | 5 | Model never returns usable output | Friendly `QuizGenerationError`, no crash |
 
 Test groups (65 tests in total): JSON parsing (9), question validation (15), input checks and prompt (6), generation with a fake LLM (11), scoring including the 8/10 = 80% example plus missing and invalid answers (15), Gemini error handling: rate limit, bad key, wrong model, empty answer (9).
-
-## 11. Manual Test Checklist (for the demo)
-
-- [ ] Generate with the sample chapter, 5 questions, Medium.
-- [ ] Generate with topic only (empty text area).
-- [ ] Click Generate with everything empty → error message.
-- [ ] Navigate Previous/Next → answers are kept, no new API call.
-- [ ] Submit with some questions unanswered → counted as incorrect.
-- [ ] Check results, explanations, retake and new quiz buttons.
-- [ ] Remove the key from `.env` → clear "API key not found" message.
-
-## 12. Future Improvements
-
-Export the quiz as PDF, timer per question, save quiz history, upload PDF/Word chapters.
