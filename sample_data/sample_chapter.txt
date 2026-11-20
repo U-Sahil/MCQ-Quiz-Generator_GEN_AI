@@ -1,0 +1,19 @@
+Chapter: Photosynthesis - How Plants Make Food
+
+Photosynthesis is the process by which green plants, algae and some bacteria convert light energy into chemical energy stored in glucose. It is the main source of food and oxygen for almost all living things on Earth. The process takes place mainly in the leaves of a plant, inside tiny structures called chloroplasts.
+
+Chloroplasts contain a green pigment called chlorophyll. Chlorophyll absorbs light energy, mostly from the red and blue parts of the sunlight. It reflects green light, which is why leaves look green. Each chloroplast contains stacks of disc-like structures called thylakoids, which are arranged in piles called grana. The fluid surrounding the grana is called the stroma.
+
+The raw materials needed for photosynthesis are carbon dioxide, water and sunlight. Carbon dioxide enters the leaf through tiny pores called stomata, which are mostly found on the underside of the leaf. Each stoma is surrounded by two guard cells that open and close the pore. Water is absorbed from the soil by the roots and carried up to the leaves through vessels called xylem.
+
+Photosynthesis takes place in two stages. The first stage is the light-dependent reactions, which occur in the thylakoid membranes. Here light energy is used to split water molecules into hydrogen and oxygen. This process is called photolysis. Oxygen is released into the air as a by-product, while the energy is stored in two energy-carrying molecules, ATP and NADPH.
+
+The second stage is the Calvin cycle, also known as the light-independent reactions. It takes place in the stroma of the chloroplast. In the Calvin cycle, the ATP and NADPH produced earlier are used to convert carbon dioxide into glucose. The enzyme RuBisCO helps to fix carbon dioxide in the first step of this cycle. RuBisCO is believed to be the most abundant enzyme on Earth.
+
+The overall chemical equation of photosynthesis is: six molecules of carbon dioxide plus six molecules of water, in the presence of light and chlorophyll, produce one molecule of glucose and six molecules of oxygen.
+
+Several factors affect the rate of photosynthesis. These include light intensity, carbon dioxide concentration and temperature. If the light intensity increases, the rate of photosynthesis also increases until another factor becomes limiting. Very high temperatures can damage the enzymes involved and reduce the rate of photosynthesis. A factor that is in short supply and limits the rate is called a limiting factor.
+
+The glucose produced is used by the plant in several ways. Some is used immediately for respiration to release energy. Some is converted into starch for storage in leaves, roots and seeds. Some is changed into cellulose to build cell walls, and some is combined with nitrates from the soil to make proteins.
+
+Photosynthesis is important for the balance of gases in the atmosphere. It removes carbon dioxide and adds oxygen, helping to reduce the greenhouse effect. All food chains begin with producers that carry out photosynthesis, so the energy in nearly every meal can be traced back to sunlight captured by plants.
